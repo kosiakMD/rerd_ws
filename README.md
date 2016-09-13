@@ -16,3 +16,5 @@ https://docs.npmjs.com/getting-started/installing-node
 `$ git clone https://js-assignment.evolutiongaming.com/git/keleborn.mail/feyiqagu.git .`
 
 `$ npm install`
+
+`$ npm start`
