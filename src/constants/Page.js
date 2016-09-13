@@ -1,0 +1,8 @@
+export const EDIT_TABLE = 'EDIT_TABLE'
+export const EDIT_HIDE = 'EDIT_HIDE'
+export const TABLE_HIDE = 'TABLE_HIDE'
+export const TABLE_SHOW = 'TABLE_SHOW'
+export const TABLE_LIST = 'TABLE_LIST'
+export const TABLE_ADDED = 'TABLE_ADDED'
+export const TABLE_REMOVED = 'TABLE_REMOVED'
+export const TABLE_UPDATED = 'TABLE_UPDATED'

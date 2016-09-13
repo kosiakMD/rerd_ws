@@ -1,0 +1,7 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST'
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST'
+export const LOGIN_SUCCESSFUL = 'LOGIN_SUCCESSFUL'
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const NOT_AUTHORIZED = 'NOT_AUTHORIZED'
+export const PING = 'PING'
+export const PONG = 'PONG'
